@@ -1,0 +1,56 @@
+{
+"type": "Feature",
+"properties": {
+"b": 649,
+"dir": 152,
+"r": 22,
+"line": "Arcola East",
+"offset": 15,
+"speed": 22
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"-104.595113",
+"50.410908"
+]
+}
+},
+
+{
+"type": "Feature",
+"properties": {
+"b": 649,
+"dir": 123,
+"r": 22,
+"line": "Arcola East",
+"offset": 15,
+"speed": 40
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"-104.589485",
+"50.407873"
+]
+}
+},
+
+{
+"type": "Feature",
+"properties": {
+"b": 649,
+"dir": 16,
+"r": 22,
+"line": "Arcola East",
+"offset": 15,
+"speed": 34
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"-104.587352",
+"50.407422"
+]
+}
+},
